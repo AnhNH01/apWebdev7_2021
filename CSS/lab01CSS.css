@@ -1,0 +1,103 @@
+* {
+    font-family: "Karma", sans-serif;
+}
+
+html, body {
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+div{
+    float: left ;
+}
+
+.top{
+    text-align: center;
+    float: none;
+    font-size: larger;
+
+}
+
+.Sandwich{
+    width: 300px;
+    height: 600px;
+    text-align: center;
+    padding: 16px;
+}
+
+.Steak{
+    width: 300px;
+    height: 600px;
+    text-align: center;
+    padding: 16px;
+}
+.Cherry{
+    width: 300px;
+    height: 600px;
+    text-align: center;
+    padding: 16px;
+}
+.Wine{
+    width: 300px;
+    height: 600px;
+    text-align: center;
+    padding: 16px;
+}
+.Popsicle{
+    width: 300px;
+    height: 600px;
+    text-align: center;
+    padding: 16px;
+}
+.ReSandwich{
+    width: 300px;
+    height: 600px;
+    text-align: center;
+    padding: 16px;
+}
+.Salmon{
+    width: 300px;
+    height: 600px;
+    text-align: center;
+    padding: 16px;
+}
+.Croissant{
+    width: 300px;
+    height: 600px;
+    text-align: center;
+    padding: 16px;
+}
+
+.contents_food{
+    margin-left: 70px;
+}
+
+.contents_chef{
+    text-align: center;
+    font-size: larger;
+}
+.para{
+    font-size: medium;
+    padding: 0 15px 15px 0;
+    margin-left: 70px;
+    margin-right: 70px;
+
+}
+.slogan{
+    float: none;
+    text-align: center;
+}
+
+.first {
+    margin-left: 80px;
+    width: 420px;
+}
+.third{
+    margin-right: 80px;
+    width: 420px;
+}
+.second{
+    width: 420px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
